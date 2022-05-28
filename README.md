@@ -1,4 +1,4 @@
-### Olá, eu sou o Antônio Trindade 👊
+### Hi, I am Antônio Trindade 👊
 
 <!--
 **amtrindade/amtrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
